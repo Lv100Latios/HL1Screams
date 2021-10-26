@@ -11,3 +11,5 @@ A scream replacement for Ace Fire screams.
 This is currently a WIP of a mod I decided to create on a whim after seeing the impending port of ACE Fire from Arma 2 to Arma 3. The general idea was to take the screams of the port and make it even more silly by replacing them with iconic Scientist screams from Half-Life 1.
 
 That's it! 15 screams were chosen to replace the ACE Screaming sounds. It's as simple as that.
+
+If you have any suggestions or issues, please let me know through the issues tracker. You can find me on Discord as Lv100Latias (Silver#5760)
