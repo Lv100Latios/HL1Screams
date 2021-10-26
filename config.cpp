@@ -27,19 +27,49 @@ class CfgPatches
 
 class CfgSounds
 {
-    ace_fire_scream_1 = {"hl1screams\Sounds\ScientistScream1.wss",1,1};
-	ace_fire_scream_2 = {"hl1screams\Sounds\ScientistScream2.wss",1,1};
-	ace_fire_scream_3 = {"hl1screams\Sounds\ScientistScream3.wss",1,1};
-	ace_fire_scream_4 = {"hl1screams\Sounds\ScientistScream4.wss",1,1};
-	ace_fire_scream_5 = {"hl1screams\Sounds\ScientistScream5.wss",1,1};
-	ace_fire_scream_6 = {"hl1screams\Sounds\ScientistScream6.wss",1,1};
-	ace_fire_scream_7 = {"hl1screams\Sounds\ScientistScream7.wss",1,1};
-	ace_fire_scream_8 = {"hl1screams\Sounds\ScientistScream8.wss",1,1};
-	ace_fire_scream_9 = {"hl1screams\Sounds\ScientistScream9.wss",1,1};
-	ace_fire_scream_10 = {"hl1screams\Sounds\ScientistScream10.wss",1,1};
-	ace_fire_scream_11 = {"hl1screams\Sounds\ScientistScream11.wss",1,1};
-	ace_fire_scream_12 = {"hl1screams\Sounds\ScientistScream12.wss",1,1};
-	ace_fire_scream_13 = {"hl1screams\Sounds\ScientistScream13.wss",1,1};
-	ace_fire_scream_14 = {"hl1screams\Sounds\ScientistScream14.wss",1,1};
-	ace_fire_scream_15 = {"hl1screams\Sounds\ScientistScream15.wss",1,1};
+    class ace_fire_scream_1 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream1.wss",1,1};
+	};
+	class ace_fire_scream_2 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream2.wss",1,1};
+	};
+	class ace_fire_scream_3 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream3.wss",1,1};
+	};
+	class ace_fire_scream_4 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream4.wss",1,1};
+	};
+	class ace_fire_scream_5 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream5.wss",1,1};
+	};
+	class ace_fire_scream_6 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream6.wss",1,1};
+	};
+	class ace_fire_scream_7 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream7.wss",1,1};
+	};
+	class ace_fire_scream_8 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream8.wss",1,1};
+	};
+	class ace_fire_scream_9 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream9.wss",1,1};
+	};
+	class ace_fire_scream_10 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream10.wss",1,1};
+	};
+	class ace_fire_scream_11 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream11.wss",1,1};
+	};
+	class ace_fire_scream_12 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream12.wss",1,1};
+	};
+	class ace_fire_scream_13 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream13.wss",1,1};
+	};
+	class ace_fire_scream_14 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream14.wss",1,1};
+	};
+	class ace_fire_scream_15 = {
+		sound[] = {"hl1screams\Sounds\ScientistScream15.wss",1,1};
+	};
 };
