@@ -19,11 +19,9 @@ class CfgPatches
 		requiredVersion = 2.06;
 		requiredAddons[] = {
 			"ace_fire"
-		};
-		
+		};		
 	};
 };
-
 
 class CfgSounds
 {
