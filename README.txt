@@ -1,5 +1,5 @@
 # HL1 Screams
-A sound replacement for ACE Fire screams.
+A sound replacement for ACE Fire screams. AAAAAAAAAUUUUUUUGGGGGGHHHHHH!
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //This mod is NOT to be used in a commercial product and falls under BI's APL-SA License
