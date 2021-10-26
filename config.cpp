@@ -23,8 +23,7 @@ class CfgPatches
 	};
 };
 
-class CfgSounds
-{
+class CfgSounds {
     class ace_fire_scream_1 = {
 		sound[] = {"hl1screams\Sounds\ScientistScream1.wss",1,1};
 	};
