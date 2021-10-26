@@ -12,4 +12,6 @@ This is currently a WIP of a mod I decided to create on a whim after seeing the 
 
 That's it! 15 screams were chosen to replace the ACE Screaming sounds. It's as simple as that.
 
+!!! This is not currently keyed to the server! Expect this to change once the ACE update gets merged and this is completed. Should be fairly quick. !!!
+
 If you have any suggestions or issues, please let me know through the issues tracker. You can find me on Discord as Lv100Latias (Silver#5760)
